@@ -1,0 +1,29 @@
+.contact-us {
+  padding: 100px 0;
+  background-color: #f7f7f7;
+  overflow: auto;
+}
+
+.contact-us input {
+  width: 100%;
+}
+
+.contact-us h2 {
+  color: tomato;
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+.contact-us button {
+  border: 1px solid tomato;
+  border-radius: 6px;
+  padding: 5px 30px;
+  margin: 20px 0;
+  color: tomato;
+  background: transparent;
+}
+
+.contact-us button:hover {
+  color: white;
+  background-color: tomato;
+}

@@ -1,0 +1,10 @@
+.reviews {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.reviews h2{
+    color: tomato;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.service {
+    text-align: center;
+    padding: 100px 0;
+    background: #f7f7f7;
+}
+.service h2{
+    color: tomato;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+button{
+    border: 1px solid tomato;
+    border-radius: 6px;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    color: tomato;
+    background: transparent;
+}
+
+button:hover {
+    color: white;
+    background-color: tomato;
+}
